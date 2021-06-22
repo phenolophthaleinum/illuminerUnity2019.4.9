@@ -33,8 +33,8 @@ Player's task is to read bases of a given sequence which are represented as colo
 
 - Difficulty depends on designated sequence length - the longer the sequence, the more frequently lights appear (to certain point). This can be expressed as:
   
-  <pre xml:lang="latex">(difficultyFactor^n) * maxInterval + minInterval</pre>,
+  <pre xml:lang="latex">(difficultyFactor^n) * maxInterval + minInterval</pre>
   
-  where $n$ is a subsequent base, $maxInterval$ and $minInterval$ are time values which can be achieved. $difficultyFactor$ is constant. All results are rounded to two decimal places.
+  where n is a subsequent base, maxInterval and minInterval are time values which can be achieved. difficultyFactor is constant. All results are rounded to two decimal places.
 
 - Quite fun and challening gameplay!
