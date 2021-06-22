@@ -7,6 +7,9 @@
 Assets/AssetStoreTools*
 WebGL Builds/
 
+#compressed builds
+*.zip
+
 # Visual Studio cache directory
 .vs/
 
