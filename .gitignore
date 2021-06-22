@@ -7,6 +7,9 @@
 Assets/AssetStoreTools*
 WebGL Builds/
 
+#other
+webgl_sharing
+
 #compressed builds
 *.zip
 
