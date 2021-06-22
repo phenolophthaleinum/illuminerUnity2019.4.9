@@ -6,9 +6,9 @@ Special thanks to originators:
 
 - Szymon Błaszczyk
 
-- [Miłosz Chodkowski]([777moneymaker (Miłosz Chodkowski) (github.com)](https://github.com/777moneymaker))
+- [777moneymaker (Miłosz Chodkowski)](https://github.com/777moneymaker)
 
-- [Kacper Dudczak]([AvirFrog (Kacper) (github.com)](https://github.com/AvirFrog))
+- [AvirFrog (Kacper)](https://github.com/AvirFrog)
   
   and to anybody who helped in the making process!
 
@@ -22,7 +22,7 @@ Player's task is to read bases of a given sequence which are represented as colo
 
 - WebGL game with available js hook - the goal was to make a leaderboard, but eventually there was no time for this. Even though, it's still possible, since there is nickname option in main menu (and code that dumps all info to potential js hook is available too)
 
-- Tweened user interface, using [LeanTween]([LeanTween | Animation Tools | Unity Asset Store](https://assetstore.unity.com/packages/tools/animation/leantween-3595))
+- Tweened user interface, using [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595)
 
 - Focus on lights and post-processing usage (bloom, depth of field, vignetting, chromatic aberration, colour grading, exposure, lens distortion)
 
