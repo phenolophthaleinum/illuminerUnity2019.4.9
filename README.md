@@ -1,6 +1,5 @@
-# illuminer
 
-![illuminer-logo](https://github.com/phenolophthaleinum/illuminerUnity2019.4.9/blob/main/illuminer-logo.png)
+# ![illuminer-logo](https://github.com/phenolophthaleinum/illuminerUnity2019.4.9/blob/main/illuminer-logo.png)
 
 illuminer is a promotional game made for AMU's new bioinformatics course. Game is available to play [here](none). 
 
