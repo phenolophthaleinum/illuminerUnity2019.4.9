@@ -1,0 +1,5 @@
+menu/help 005E40
+menu/startgame(button) 
+	normal FFFFFF
+	highlighted 90B29F
+	pressed 798981
