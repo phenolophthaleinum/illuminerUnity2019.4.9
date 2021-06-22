@@ -3,9 +3,9 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
 Assets/AssetStoreTools*
 WebGL Builds/
-[Ll]ogs/
 
 # Visual Studio cache directory
 .vs/
