@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="illuminer-logo.png">
 </div>
@@ -7,7 +6,7 @@ illuminer is a promotional game made for AMU's new bioinformatics course. Game i
 
 Special thanks to originators:
 
-- Szymon Błaszczyk
+- [Lesetho](https://github.com/Lesetho)
 
 - [777moneymaker (Miłosz Chodkowski)](https://github.com/777moneymaker)
 
@@ -18,12 +17,13 @@ Special thanks to originators:
 ## Gameplay
 
 Player's task is to read bases of a given sequence which are represented as coloured lights to imitate illumina sequencing. Colour assignments are displayed during the sequencing. Lights appear in random places at an increasing rate as player progresses through the sequence. The goal is to make as few mistakes as possible.
+
 #### Gameplay sample (do not represent whole experience):
 
 <div align="center">
 <img align="center" src="illuminer-gameplay.gif">
 </div>
-  
+
 ## Features
 
 - WebGL game with available js hook - the goal was to make a leaderboard, but eventually there was no time for this. Even though, it's still possible, since there is nickname option in main menu (and code that dumps all info to potential js hook is available too)
@@ -33,7 +33,7 @@ Player's task is to read bases of a given sequence which are represented as colo
 - Focus on lights and post-processing usage (bloom, depth of field, vignetting, chromatic aberration, colour grading, exposure, lens distortion)
 
 - Custom text tracking effect, similiar to which can be seen in Half-Life games. Example:
-  
+
 <table>
   <tr>
      <td>Half-Life 2 tracking</td>
@@ -44,7 +44,6 @@ Player's task is to read bases of a given sequence which are represented as colo
     <td><img src="illuminer-tracking-compressed.gif" width=500 height=250></td>
   </tr>
 </table>
-
 
 - Difficulty depends on designated sequence length - the longer the sequence, the more frequently lights appear (to certain point). This can be expressed as:
   
