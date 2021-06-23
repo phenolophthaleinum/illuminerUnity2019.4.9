@@ -16,8 +16,9 @@ Special thanks to originators:
 ## Gameplay
 
 Player's task is to read bases of a given sequence which are represented as coloured lights to imitate illumina sequencing. Colour assignments are displayed during the sequencing. Lights appear in random places at an increasing rate as player progresses through the sequence. The goal is to make as few mistakes as possible.
+Gameplay sample (do not represent whole experience):
 
-<gif gameplay>
+# <img src="illuminer-gameplay.gif"></td>
 
 ## Features
 
