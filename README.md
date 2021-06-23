@@ -35,11 +35,11 @@ Player's task is to read bases of a given sequence which are represented as colo
      <td>illuminer tracking</td>
   </tr>
   <tr>
-    <td><img src="hl2-tracking-compressed.gif" width=400 height=200></td>
-    <td><img src="illuminer-tracking-compressed.gif" width=400 height=200></td>
+    <td><img src="hl2-tracking-compressed.gif" width=500 height=250></td>
+    <td><img src="illuminer-tracking-compressed.gif" width=500 height=250></td>
   </tr>
  </table>
-  # ![hl2-tracking](https://github.com/phenolophthaleinum/illuminerUnity2019.4.9/blob/main/hl2-tracking-compressed.gif) ![illuminer-tracking](https://github.com/phenolophthaleinum/illuminerUnity2019.4.9/blob/main/illuminer-tracking-compressed.gif)
+
 
 - Difficulty depends on designated sequence length - the longer the sequence, the more frequently lights appear (to certain point). This can be expressed as:
   
