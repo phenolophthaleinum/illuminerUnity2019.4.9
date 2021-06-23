@@ -29,7 +29,17 @@ Player's task is to read bases of a given sequence which are represented as colo
 
 - Custom text tracking effect, similiar to which can be seen in Half-Life games. Example:
   
-  <gif tracking>
+<table>
+  <tr>
+     <td>Half-Life 2 tracking</td>
+     <td>illuminer tracking</td>
+  </tr>
+  <tr>
+    <td><img src="hl2-tracking-compressed.gif" width=500 height=250></td>
+    <td><img src="illuminer-tracking-compressed.gif" width=500 height=250></td>
+  </tr>
+</table>
+
 
 - Difficulty depends on designated sequence length - the longer the sequence, the more frequently lights appear (to certain point). This can be expressed as:
   
