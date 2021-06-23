@@ -1,4 +1,5 @@
-# illuminer
+
+# ![illuminer-logo](https://github.com/phenolophthaleinum/illuminerUnity2019.4.9/blob/main/illuminer-logo.png)
 
 illuminer is a promotional game made for AMU's new bioinformatics course. Game is available to play [here](none). 
 
@@ -32,8 +33,8 @@ Player's task is to read bases of a given sequence which are represented as colo
 
 - Difficulty depends on designated sequence length - the longer the sequence, the more frequently lights appear (to certain point). This can be expressed as:
   
-  $(difficultyFactor^n) * maxInterval + minInterval$,
+  <pre xml:lang="latex">(difficultyFactor^n) * maxInterval + minInterval</pre>
   
-  where $n$ is a subsequent base, $maxInterval$ and $minInterval$ are time values which can be achieved. $difficultyFactor$ is constant. All results are rounded to two decimal places.
+  where n is a subsequent base, maxInterval and minInterval are time values which can be achieved. difficultyFactor is constant. All results are rounded to two decimal places.
 
 - Quite fun and challening gameplay!
