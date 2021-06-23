@@ -1,5 +1,5 @@
 
-# ![illuminer-logo](https://github.com/phenolophthaleinum/illuminerUnity2019.4.9/blob/main/illuminer-logo.png)
+# <img align="center" src="illuminer-logo.png">
 
 illuminer is a promotional game made for AMU's new bioinformatics course. Game is available to play [here](none). 
 
@@ -18,9 +18,7 @@ Special thanks to originators:
 Player's task is to read bases of a given sequence which are represented as coloured lights to imitate illumina sequencing. Colour assignments are displayed during the sequencing. Lights appear in random places at an increasing rate as player progresses through the sequence. The goal is to make as few mistakes as possible.
 #### Gameplay sample (do not represent whole experience):
 
-<div align="center">
-<img src="illuminer-gameplay.gif"></td>
-</div>
+<img align="center" src="illuminer-gameplay.gif"></td>
 
 ## Features
 
