@@ -20,8 +20,10 @@ Special thanks to originators:
 Player's task is to read bases of a given sequence which are represented as coloured lights to imitate illumina sequencing. Colour assignments are displayed during the sequencing. Lights appear in random places at an increasing rate as player progresses through the sequence. The goal is to make as few mistakes as possible.
 #### Gameplay sample (do not represent whole experience):
 
+<div align="center">
 <img align="center" src="illuminer-gameplay.gif">
-
+</div>
+  
 ## Features
 
 - WebGL game with available js hook - the goal was to make a leaderboard, but eventually there was no time for this. Even though, it's still possible, since there is nickname option in main menu (and code that dumps all info to potential js hook is available too)
