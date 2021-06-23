@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="illuminer-logo.png">
+# <img src="illuminer-logo.png">
 </div>
 # 
 
