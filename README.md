@@ -1,7 +1,8 @@
 
-# <div align="center">
+# 
+<div align="center">
 <img src="illuminer-logo.png">
-  </div>
+</div>
 
 illuminer is a promotional game made for AMU's new bioinformatics course. Game is available to play [here](none). 
 
