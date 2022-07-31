@@ -2,7 +2,7 @@
 <img src="illuminer-logo.png">
 </div>
 
-illuminer is a promotional game made for AMU's new bioinformatics course. Game is available to play [here](none). 
+illuminer is a promotional game made for AMU's new bioinformatics course. Game is available to play [here](http://afproject.org/bioinformatyka/gra-illuminer.php). 
 
 Special thanks to originators:
 
